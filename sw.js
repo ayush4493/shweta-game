@@ -1,6 +1,6 @@
 /* Shweta Pets Everyone - offline cache
    Bump CACHE when you upload a new index.html so phones pick up the change. */
-const CACHE = 'shweta-pets-v3';
+const CACHE = 'shweta-pets-v4';
 const FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
